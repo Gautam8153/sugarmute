@@ -1,0 +1,2 @@
+# sugarmute
+Static site
